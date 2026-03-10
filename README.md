@@ -146,58 +146,7 @@ appforge --help
 
 ---
 
-# Step 3 — Create a GitHub Token
-
-AppForge needs permission to upload code to your build repository.
-
-Go to:
-
-```
-https://github.com/settings/tokens
-```
-
-Create a **Fine-grained token**.
-
-Settings:
-
-**Name**
-
-```
-AppForge CLI Token
-```
-
----
-
-### Repository Access
-
-Select:
-
-```
-Only select repositories
-```
-
-Choose your forked:
-
-```
-appforge-build
-```
-
----
-
-### Permissions
-
-Grant:
-
-```
-Actions → Read and write
-Contents → Read and write
-```
-
-Generate the token and **copy it**.
-
----
-
-# Step 4 — Build Your First App
+# Step 3 — Build Your First App
 
 Navigate to your project folder.
 
