@@ -6,8 +6,6 @@ Convert your **web, Flutter, or native Android projects** into installable mobil
 
 AppForge is a command-line tool designed for developers who want a **fast, automated way to create Android (`.apk`) and iOS (`.zip` Xcode projects)** builds without complex local setups.
 
-> (Tip: Add a GIF here showing the CLI in action)
-
 ---
 
 # ✨ Features
